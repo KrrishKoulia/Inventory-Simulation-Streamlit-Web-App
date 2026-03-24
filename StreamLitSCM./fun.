@@ -1,0 +1,3 @@
+run this..
+
+uv run streamlit run app.py
