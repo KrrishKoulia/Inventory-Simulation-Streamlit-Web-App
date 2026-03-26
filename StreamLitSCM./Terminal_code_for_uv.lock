@@ -1,0 +1,16 @@
+krrish@Krafton69:~$ cd ~/Desktop/negatron/StreamLitSCM
+
+# Activate virtual environment
+source .venv/bin/activate
+
+# Add all required packages
+uv add streamlit pandas numpy matplotlib pydantic
+Resolved 49 packages in 7.87s
+Prepared 2 packages in 1.44s
+Uninstalled 2 packages in 10ms
+Installed 2 packages in 7ms
+ - narwhals==2.18.0
+ + narwhals==2.18.1
+ - requests==2.32.5
+ + requests==2.33.0
+(StreamLitSCM) krrish@Krafton69:~/Desktop/negatron/StreamLitSCM$ 
