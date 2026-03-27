@@ -55,7 +55,7 @@ StreamLitSCM/
 ```
 
 
-- Inventory Management Tutorial Source Code: https://github.com/samirsaci/tuto_inventory
+
 - One of:
   - **Linux**: `uv` (recommended) or `pip`
  
