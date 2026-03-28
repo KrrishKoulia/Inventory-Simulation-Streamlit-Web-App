@@ -25,6 +25,10 @@ Try the app here: [Inventory Simulation App](https://inventory-simulation-app-we
 - ## Default View
 - ![Preview](DefaultView.png)
 
+- ## Default View
+- ![Preview](LeadTime2.jpg)
+
+
 ## Architecture
 
 ```
