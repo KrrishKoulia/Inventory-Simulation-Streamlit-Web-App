@@ -25,7 +25,7 @@ Try the app here: [Inventory Simulation App](https://inventory-simulation-app-we
 - ## Default View
 - ![Preview](DefaultView.png)
 
-- ## Default View
+- ## View with Lead Time as 2
 - ![Preview](LeadTime2.jpg)
 
 
