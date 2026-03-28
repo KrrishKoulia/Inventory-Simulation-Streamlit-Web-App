@@ -7,6 +7,11 @@ The app lets you test **fixed-cycle replenishment** under deterministic and stoc
 - Results are **reproducible** (fixed random seed).
 - Engine modules remain **as-is**, wrapped with a minimal Streamlit UI.
 
+## Live Demo
+
+Try the app here: [Inventory Simulation App](https://inventory-simulation-app-web-app-ahonbxvys7gtzgummn7snu.streamlit.app/)
+
+
 - ## Features
 
 - Deterministic and stochastic demand simulations
