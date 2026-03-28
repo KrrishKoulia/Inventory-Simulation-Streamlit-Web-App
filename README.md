@@ -17,6 +17,9 @@ The app lets you test **fixed-cycle replenishment** under deterministic and stoc
 - Auto re-run after initial click
 
 
+- ## Default View
+- ![Preview](DefaultView.png)
+
 ## Architecture
 
 ```
